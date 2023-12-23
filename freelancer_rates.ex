@@ -1,3 +1,5 @@
+# Aluno: Elias Victor
+
 defmodule FreelancerRates do
   def daily_rate(hourly_rate) do
     (hourly_rate * 8)/1.0
